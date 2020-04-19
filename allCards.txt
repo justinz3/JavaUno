@@ -1,0 +1,19 @@
+{
+"red zero", "red one", "red one", "red two", "red two", "red three", "red three", "red four", "red four", 
+"red five", "red five", "red six", "red six", "red seven", "red seven", "red eight", "red eight", "red nine", "red nine", 
+"red skip", "red skip", "red reversal", "red reversal", "red +2", "red +2", 
+
+"yellow zero", "yellow one", "yellow one", "yellow two", "yellow two", "yellow three", "yellow three", "yellow four", "yellow four", 
+"yellow five", "yellow five", "yellow six", "yellow six", "yellow seven", "yellow seven", "yellow eight", "yellow eight", "yellow nine", "yellow nine", 
+"yellow skip", "yellow skip", "yellow reversal", "yellow reversal", "yellow +2", "yellow +2", 
+
+"green zero", "green one", "green one", "green two", "green two", "green three", "green three", "green four", "green four", 
+"green five", "green five", "green six", "green six", "green seven", "green seven", "green eight", "green eight", "green nine", "green nine", 
+"green skip", "green skip", "green reversal", "green reversal", "green +2", "green +2", 
+
+"blue zero", "blue one", "blue one", "blue two", "blue two", "blue three", "blue three", "blue four", "blue four", 
+"blue five", "blue five", "blue six", "blue six", "blue seven", "blue seven", "blue eight", "blue eight", "blue nine", "blue nine", 
+"blue skip", "blue skip", "blue reversal", "blue reversal", "blue +2", "blue +2", 
+
+"wild", "wild", "wild", "wild", "wild +4", "wild +4", "wild +4", "wild +4"
+}
